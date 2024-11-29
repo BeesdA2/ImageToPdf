@@ -1,0 +1,23 @@
+{
+  "name": "imagetopdf",
+  "version": "1.0.0",
+  "description": "Convert image to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeesdA2/ImageToPdf.git"
+  },
+  "author": "Jaap Mertens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeesdA2/ImageToPdf/issues"
+  },
+  "homepage": "https://github.com/BeesdA2/ImageToPdf#readme",
+  "dependencies": {
+    "ls": "^0.2.1",
+    "pdfkit": "^0.15.1"
+  }
+}
